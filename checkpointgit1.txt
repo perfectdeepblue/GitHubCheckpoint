@@ -1,0 +1,4 @@
+
+1. git log
+2. om frågan är vad man ska göra om man vill se om man har några outstanding commits är det status, annars är det push
+3. git init
